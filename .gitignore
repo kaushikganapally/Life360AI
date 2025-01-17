@@ -1,0 +1,58 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs and Debugging
+*.log
+*.out
+*.err
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+.tox/
+
+# Distribution/Packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# macOS
+.DS_Store
+
+# Xcode
+*.xcuserdata
+*.xcworkspace
+*.xccheckout
+DerivedData/
+build/
+
+# CocoaPods
+Pods/
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# Carthage
+Carthage/Build/
+
+# Archives
+*.xcarchive
+
+# Provisioning Profiles
+*.mobileprovision
+
+# Frameworks
+*.framework
